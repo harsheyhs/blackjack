@@ -1,0 +1,42 @@
+
+main{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.hero{
+  height:45vh;
+  display: flex;
+  justify-content: center;
+}
+.cards,.chips{
+  width:10%;
+}
+.heroimg{
+  width:20%;
+}
+h1{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3.5rem;
+  font-weight: 900;
+  color: #FFDBDA;
+  text-shadow: 3px 3px #B85156;
+  padding-bottom: 60px;
+}
+p{
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: .5px;
+  color: #FFDBDA;
+  line-height: 3rem;
+}
+button{
+  width:170px;
+  font-size: 1.3rem;
+  font-weight: 900;
+  background-color: #A3C4BC;
+  border: 2px solid #B85156;
+  border-radius: 7px;
+  padding: 5px 7px;
+  margin: 30px 5px;
+}
